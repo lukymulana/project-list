@@ -1,0 +1,20 @@
+{
+  "name": "project-list",
+  "version": "1.0.0",
+  "description": "Project List",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "lukymulana",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mocha": "^10.2.0",
+    "mysql": "^2.18.1"
+  }
+}
